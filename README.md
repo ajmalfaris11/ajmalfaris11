@@ -7,6 +7,8 @@
   <img src="https://ghchart.rshah.org/008f00/ajmalfaris11?bg_color=1e1e1e" alt="GitHub Contributions" width="100%" style="border-radius:8px"/>
 </div>
 
+<br>
+
 <!-- GitHub Profile Trophies (Matrix Theme) -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
