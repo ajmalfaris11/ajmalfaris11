@@ -11,9 +11,10 @@
 <!-- GitHub Profile Trophies (Matrix Theme) -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ajmalfaris11&theme=matrix" alt="ajmalfaris11 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ajmalfaris11&column=7&theme=matrix&no-frame=true&no-bg=true&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Contributions,MultiLanguage,Forks" alt="ajmalfaris11 trophies" />
   </a>
 </p>
+
 
 ---
 
