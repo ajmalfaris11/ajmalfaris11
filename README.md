@@ -44,6 +44,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nodejs,express,nestjs,bootstrap,tailwind,python,java,postgres,mongodb,postman,git,figma,redux" />
 </p>
 
+<p align="center">
+  <img src="images/githubstatusheader.png" alt="Animated Banner" width="100%"/>
+</p>
 
 <div align="center">
   <!-- GitHub Stats Card -->
