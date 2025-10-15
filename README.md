@@ -3,16 +3,18 @@
   <img src="images/githeader.gif" alt="Animated Banner" width="100%"/>
 </p>
 
-  <!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajmalfaris11&label=Profile%20views&color=00FF41&style=flat" alt="ajmalfaris11" />
-</p>
+
 
 <!-- GitHub Profile Trophies (Matrix Theme) -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ajmalfaris11&column=7&theme=matrix&no-frame=true&no-bg=true&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Contributions,MultiLanguage,Forks" alt="ajmalfaris11 trophies" />
   </a>
+</p>
+
+  <!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajmalfaris11&label=Profile%20views&color=00FF41&style=flat" alt="ajmalfaris11" />
 </p>
 
 
