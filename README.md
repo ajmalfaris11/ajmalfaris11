@@ -1,16 +1,22 @@
 <!-- ✨ Advanced GitHub Profile README for Ajmal Faris ✨ -->
 <p align="center">
-  <img src="images/githeader.png" alt="Project Screenshot" width="100%"/>
+  <img src="images/githeader.gif" alt="Animated Banner" width="100%"/>
 </p>
 
+
+
+<!-- GitHub Profile Trophies (Matrix Theme) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajmalfaris11&label=Profile%20views&color=00bcd4&style=flat" alt="ajmalfaris11" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ajmalfaris11&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="ajmalfaris11 trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ajmalfaris11&column=7&theme=matrix&no-frame=true&no-bg=true&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Contributions,MultiLanguage,Forks" alt="ajmalfaris11 trophies" />
   </a>
 </p>
 
----
+  <!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajmalfaris11&label=Profile%20views&color=00FF41&style=flat" alt="ajmalfaris11" />
+</p>
+
 
 ### 👨‍💻 About Me  
 
@@ -23,7 +29,6 @@
 - 📫 Reach me at **ajmalfaris.me@gmail.com**  
 - ⚡ Fun fact: I type at **100+ WPM**, which is faster than my coffee brewing speed.  
 
----
 
 ### 🌍 Connect with Me  
 <p align="left">
@@ -33,26 +38,22 @@
   <a href="https://www.leetcode.com/ajmalfaris11"><img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="leetcode"/></a>
 </p>
 
----
 
 ### ⚙️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nodejs,express,nestjs,bootstrap,tailwind,python,java,postgres,mongodb,postman,git,figma,redux" />
 </p>
 
----
-
-### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajmalfaris11&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalfaris11&layout=compact&theme=tokyonight" height="150"/>
-</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajmalfaris11&theme=tokyonight" height="170"/>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ajmalfaris11&show_icons=true&theme=dark&hide_border=true&hide_title=false&bg_color=00000000&icon_color=00ff41&text_color=00ff41&title_color=00ff41&ring_color=00ff41&count_private=true" height="220"/>
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalfaris11&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=00ff41&title_color=00ff41" height="220"/>
 </div>
 
----
+
 
 ### 🧠 Currently Building
 | Project | Description | Link |
@@ -62,7 +63,6 @@
 | 🧁 **Zera Events** | Dessert & juice section for event management | [Zera Events](https://github.com/CaptainAj/zera-event-planners) |
 | 👕 **Dalci** | Modern minimal clothing brand | [Dalci GitHub](https://github.com/CaptainAj/dalci) |
 
----
 
 ### 🏆 Achievements  
 - 🥇 Top 1% Typist — 100+ WPM  
@@ -70,12 +70,10 @@
 - 💡 Created 15+ projects using **React** and **MERN Stack**  
 - 🔥 Founded multiple startups under development (Fashion Friday, Ecodrops, Dalci)  
 
----
 
 ### 💬 Quote I Live By  
 > “Code like you’re changing the world — because someday, you might.”  
 
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ajmalfaris11/ajmalfaris11/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
