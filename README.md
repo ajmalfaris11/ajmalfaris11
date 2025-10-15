@@ -3,7 +3,9 @@
   <img src="images/githeader.gif" alt="Animated Banner" width="100%"/>
 </p>
 
-
+<div align="center">
+  <img src="https://ghchart.rshah.org/008f00/ajmalfaris11?bg_color=1e1e1e" alt="GitHub Contributions" width="100%" style="border-radius:8px"/>
+</div>
 
 <!-- GitHub Profile Trophies (Matrix Theme) -->
 <p align="center">
@@ -11,6 +13,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ajmalfaris11&column=7&theme=matrix&no-frame=true&no-bg=true&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Contributions,MultiLanguage,Forks" alt="ajmalfaris11 trophies" />
   </a>
 </p>
+
 
   <!-- Profile Views -->
 <p align="center">
