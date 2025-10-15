@@ -45,15 +45,14 @@
 </p>
 
 
-### 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajmalfaris11&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalfaris11&layout=compact&theme=tokyonight" height="150"/>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ajmalfaris11&show_icons=true&theme=dark&hide_border=true&hide_title=false&bg_color=00000000&icon_color=00ff41&text_color=00ff41&title_color=00ff41&ring_color=00ff41&count_private=true" height="220"/>
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalfaris11&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=00ff41&title_color=00ff41" height="220"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajmalfaris11&theme=tokyonight" height="170"/>
-</div>
 
 
 ### 🧠 Currently Building
