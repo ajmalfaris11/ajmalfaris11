@@ -78,9 +78,16 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 </a>
 
+<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajmalfaris11&bg_color=transparent&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+<br/>
+
 <p align="center">
   <img src="assets/footer.png" alt="footer" width="100%"/>
 </p>
+
 
  <!-- connect links -->
 <p align="center">
