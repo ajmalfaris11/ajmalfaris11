@@ -96,6 +96,9 @@
 ### 💬 Quote I Live By  
 > “Code like you’re changing the world — because someday, you might.”  
 
+<a href="https://www.buymeacoffee.com/ajmalfaris11">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+</a>
 
 <p align="center">
   <img src="assets/footer.png" alt="footer" width="100%"/>
