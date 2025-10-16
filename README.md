@@ -3,7 +3,11 @@
   <img src="images/githeader.gif" alt="Animated Banner" width="100%"/>
 </p>
 
+<div align="center">
+  <img src="https://ghchart.rshah.org/008f00/ajmalfaris11?bg_color=1e1e1e" alt="GitHub Contributions" width="100%" style="border-radius:8px"/>
+</div>
 
+<br>
 
 <!-- GitHub Profile Trophies (Matrix Theme) -->
 <p align="center">
@@ -11,6 +15,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ajmalfaris11&column=7&theme=matrix&no-frame=true&no-bg=true&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Contributions,MultiLanguage,Forks" alt="ajmalfaris11 trophies" />
   </a>
 </p>
+
 
   <!-- Profile Views -->
 <p align="center">
@@ -39,11 +44,22 @@
 </p>
 
 
-### ⚙️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nodejs,express,nestjs,bootstrap,tailwind,python,java,postgres,mongodb,postman,git,figma,redux" />
-</p>
+🧠 Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" /> </p>
+⚛️ Frontend Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind,redux" /> </p>
+🔧 Backend & Frameworks
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> </p>
+🗄️ Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb" /> </p>
+🧰 Tools & Others
+<p align="center"> <img src="https://skillicons.dev/icons?i=postman,git,figma" /> </p>
 
+<br/> 
+
+<p align="center">
+  <img src="images/githubstatusheader.png" alt="Animated Banner" width="100%"/>
+</p>
 
 <div align="center">
   <!-- GitHub Stats Card -->
