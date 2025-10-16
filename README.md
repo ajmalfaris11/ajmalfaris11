@@ -1,6 +1,6 @@
 <!-- ✨ Advanced GitHub Profile README for Ajmal Faris ✨ -->
 <p align="center">
-  <img src="images/githeader.gif" alt="Animated Banner" width="100%"/>
+  <img src="assets/githeader.gif" alt="Animated Banner" width="100%"/>
 </p>
 
 <div align="center">
@@ -44,21 +44,33 @@
 </p>
 
 
-🧠 Languages
+<p align="center">
+  <img src="assets/headers/languages.png" alt="Animated Banner" width="100%"/>
+</p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" /> </p>
-⚛️ Frontend Technologies
+<br/>
+<p align="center">
+  <img src="assets/headers/frontent.png" alt="Animated Banner" width="100%"/>
+</p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind,redux" /> </p>
-🔧 Backend & Frameworks
+<br/>
+<p align="center">
+  <img src="assets/headers/backend.png" alt="Animated Banner" width="100%"/>
+</p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> </p>
-🗄️ Databases
+<br/>
+<p align="center">
+  <img src="assets/headers/database.png" alt="Animated Banner" width="100%"/>
+</p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb" /> </p>
-🧰 Tools & Others
-<p align="center"> <img src="https://skillicons.dev/icons?i=postman,git,figma" /> </p>
-
+<br/>
+<p align="center">
+  <img src="assets/headers/toolsAndOther.png" alt="Animated Banner" width="100%"/>
+</p>
 <br/> 
 
 <p align="center">
-  <img src="images/githubstatusheader.png" alt="Animated Banner" width="100%"/>
+  <img src="assets/headers/githubstatusheader.png" alt="Animated Banner" width="100%"/>
 </p>
 
 <div align="center">
