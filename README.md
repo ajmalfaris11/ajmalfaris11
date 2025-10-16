@@ -106,6 +106,6 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajmalfaris11/ajmalfaris11/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="assets/footer.png" alt="footer" width="100%"/>
 </p>
 
