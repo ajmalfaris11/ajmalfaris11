@@ -44,10 +44,18 @@
 </p>
 
 
-### ⚙️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nodejs,express,nestjs,bootstrap,tailwind,python,java,postgres,mongodb,postman,git,figma,redux" />
-</p>
+🧠 Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" /> </p>
+⚛️ Frontend Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind,redux" /> </p>
+🔧 Backend & Frameworks
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> </p>
+🗄️ Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb" /> </p>
+🧰 Tools & Others
+<p align="center"> <img src="https://skillicons.dev/icons?i=postman,git,figma" /> </p>
+
+<br/> 
 
 <p align="center">
   <img src="images/githubstatusheader.png" alt="Animated Banner" width="100%"/>
