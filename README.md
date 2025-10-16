@@ -27,26 +27,26 @@
   <img src="assets/headers/languages.png" alt="Animated Banner" width="100%"/>
 </p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" /> </p>
-<br/>
+<br/><br/>
 <p align="center">
   <img src="assets/headers/frontent.png" alt="Animated Banner" width="100%"/>
 </p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind,redux" /> </p>
-<br/>
+<br/><br/>
 <p align="center">
   <img src="assets/headers/backend.png" alt="Animated Banner" width="100%"/>
 </p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> </p>
-<br/>
+<br/><br/>
 <p align="center">
   <img src="assets/headers/database.png" alt="Animated Banner" width="100%"/>
 </p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb" /> </p>
-<br/>
+<br/><br/>
 <p align="center">
   <img src="assets/headers/toolsAndOther.png" alt="Animated Banner" width="100%"/>
 </p>
-<br/> 
+<br/> <br/>
 
 
 ### 👨‍💻 About Me  
@@ -106,6 +106,6 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ajmalfaris11/ajmalfaris11/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="assets/footer.png" alt="footer" width="100%"/>
 </p>
 
