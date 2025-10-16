@@ -70,7 +70,6 @@
   <img src="assets/achivements.png" alt="Animated Banner" width="100%"/>
 </p>
 
-<br/>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajmalfaris11&bg_color=transparent&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
