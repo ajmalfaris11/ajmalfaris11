@@ -8,7 +8,9 @@
 </div>
 
 <br>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer%20%7C%20Entrepreneur;Passionate%20about%20solving%20real-world%20problems;Building%20the%20future%20through%20code%20and%20innovation;3%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=750&height=45&color=00FF00&vCenter=true&pause=1000&size=25" />
+</p>
 <!-- GitHub Profile Trophies (Matrix Theme) -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
