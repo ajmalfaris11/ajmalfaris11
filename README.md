@@ -22,28 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=ajmalfaris11&label=Profile%20views&color=00FF41&style=flat" alt="ajmalfaris11" />
 </p>
 
-
-### 👨‍💻 About Me  
-
-- 🔭 I’m currently working on [**Fashion Friday**](https://www.fashionfriday.in) — India’s #1 trusted fashion store.  
-- 🌱 Learning **MERN Stack**, **Nest.js**, and **PostgreSQL** for high-performance backend systems.  
-- 👯 I’m looking to collaborate on **Link My Store** — a SaaS solution for e-commerce integrations.  
-- 🤝 Seeking help with **Nest.js** optimizations and scalable architecture.  
-- 💬 Ask me about **React, Vue, GSAP, Tailwind CSS**, and modern frontend ecosystems.  
-- 👨‍💻 All my projects live here → [**GitHub**](https://github.com/ajmalfaris11)  
-- 📫 Reach me at **ajmalfaris.me@gmail.com**  
-- ⚡ Fun fact: I type at **100+ WPM**, which is faster than my coffee brewing speed.  
-
-
-### 🌍 Connect with Me  
-<p align="left">
-  <a href="https://twitter.com/ajmalfaris11"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter"/></a>
-  <a href="https://linkedin.com/in/ajmalfaris11"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/></a>
-  <a href="https://fb.com/ajmalfaris11"><img src="https://skillicons.dev/icons?i=facebook" height="40" alt="facebook"/></a>
-  <a href="https://www.leetcode.com/ajmalfaris11"><img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="leetcode"/></a>
-</p>
-
-
+  <!-- Tech Stacks -->
 <p align="center">
   <img src="assets/headers/languages.png" alt="Animated Banner" width="100%"/>
 </p>
@@ -68,6 +47,29 @@
   <img src="assets/headers/toolsAndOther.png" alt="Animated Banner" width="100%"/>
 </p>
 <br/> 
+
+
+### 👨‍💻 About Me  
+
+- 🔭 I’m currently working on [**Fashion Friday**](https://www.fashionfriday.in) — India’s #1 trusted fashion store.  
+- 🌱 Learning **MERN Stack**, **Nest.js**, and **PostgreSQL** for high-performance backend systems.  
+- 👯 I’m looking to collaborate on **Link My Store** — a SaaS solution for e-commerce integrations.  
+- 🤝 Seeking help with **Nest.js** optimizations and scalable architecture.  
+- 💬 Ask me about **React, Vue, GSAP, Tailwind CSS**, and modern frontend ecosystems.  
+- 👨‍💻 All my projects live here → [**GitHub**](https://github.com/ajmalfaris11)  
+- 📫 Reach me at **ajmalfaris.me@gmail.com**  
+- ⚡ Fun fact: I type at **100+ WPM**, which is faster than my coffee brewing speed.  
+
+
+### 🌍 Connect with Me  
+<p align="left">
+  <a href="https://twitter.com/ajmalfaris11"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter"/></a>
+  <a href="https://linkedin.com/in/ajmalfaris11"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/></a>
+  <a href="https://fb.com/ajmalfaris11"><img src="https://skillicons.dev/icons?i=facebook" height="40" alt="facebook"/></a>
+  <a href="https://www.leetcode.com/ajmalfaris11"><img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="leetcode"/></a>
+</p>
+
+
 
 <p align="center">
   <img src="assets/headers/githubstatusheader.png" alt="Animated Banner" width="100%"/>
