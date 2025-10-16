@@ -66,11 +66,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalfaris11&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=00ff41&title_color=00ff41" height="220"/>
 </div>
 
-### 🏆 Achievements  
-- 🥇 Top 1% Typist — 100+ WPM  
-- 🧩 Solved 250+ problems on LeetCode with a 200-day streak  
-- 💡 Created 15+ projects using **React** and **MERN Stack**  
-- 🔥 Founded multiple startups under development (Fashion Friday, Ecodrops, Dalci)  
+<p align="center">
+  <img src="assets/achivements.png" alt="Animated Banner" width="100%"/>
+</p>
 
 
 ### 💬 Quote I Live By  
