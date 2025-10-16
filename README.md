@@ -71,10 +71,6 @@
 </p>
 
 
-<a href="https://www.buymeacoffee.com/ajmalfaris11">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-</a>
-
 <br/>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajmalfaris11&bg_color=transparent&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%" />
@@ -94,11 +90,17 @@
 
 
  <!-- connect links -->
-<p align="center">
-  <a href="https://twitter.com/ajmalfaris11"><img src="assets/social/twitter.png" height="25" alt="twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ajmalfaris11">
+    <img src="assets/buttons/coffee.png" height="40" alt="buyMeACoffee"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/ajmalfaris11"><img src="assets/social/twitter.png" height="25" alt="twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ajmal_faris11/"><img src="assets/social/instagram.png" height="25" alt="instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fb.com/ajmalfaris11"><img src="assets/social/facebook.png" height="25" alt="facebook"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.ajmalfaris.me"><img src="assets/social/web.png" height="25" alt="portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ajmalfaris11"><img src="assets/social/linkedIn.png" height="25" alt="linkedin"/></a>
-</p>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ajmalfaris.me">
+    <img src="assets/buttons/web.png" height="40" alt="portfolio"/>
+  </a>
+</div>
