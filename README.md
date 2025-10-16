@@ -54,15 +54,6 @@
 </p>
 <br/> <br/>
 
-
-### 🌍 Connect with Me  
-<p align="left">
-  <a href="https://twitter.com/ajmalfaris11"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter"/></a>
-  <a href="https://linkedin.com/in/ajmalfaris11"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/></a>
-  <a href="https://fb.com/ajmalfaris11"><img src="https://skillicons.dev/icons?i=facebook" height="40" alt="facebook"/></a>
-  <a href="https://www.leetcode.com/ajmalfaris11"><img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="leetcode"/></a>
-</p>
-
 <p align="center">
   <img src="assets/headers/githubstatusheader.png" alt="Animated Banner" width="100%"/>
 </p>
@@ -74,17 +65,6 @@
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalfaris11&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=00ff41&title_color=00ff41" height="220"/>
 </div>
-
-
-
-### 🧠 Currently Building
-| Project | Description | Link |
-|----------|--------------|------|
-| 🛍️ **Fashion Friday** | Online fashion store offering premium sneakers & accessories | [fashionfriday.in](https://www.fashionfriday.in) |
-| 💧 **Ecodrops** | Water purification & waterproofing solutions | [Ecodrops GitHub](https://github.com/CaptainAj/ecodrops) |
-| 🧁 **Zera Events** | Dessert & juice section for event management | [Zera Events](https://github.com/CaptainAj/zera-event-planners) |
-| 👕 **Dalci** | Modern minimal clothing brand | [Dalci GitHub](https://github.com/CaptainAj/dalci) |
-
 
 ### 🏆 Achievements  
 - 🥇 Top 1% Typist — 100+ WPM  
@@ -102,5 +82,14 @@
 
 <p align="center">
   <img src="assets/footer.png" alt="footer" width="100%"/>
+</p>
+
+ <!-- connect links -->
+<p align="center">
+  <a href="https://twitter.com/ajmalfaris11"><img src="assets/social/twitter.png" height="25" alt="twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ajmal_faris11/"><img src="assets/social/instagram.png" height="25" alt="instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://fb.com/ajmalfaris11"><img src="assets/social/facebook.png" height="25" alt="facebook"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.ajmalfaris.me"><img src="assets/social/web.png" height="25" alt="portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ajmalfaris11"><img src="assets/social/linkedIn.png" height="25" alt="linkedin"/></a>
 </p>
 
