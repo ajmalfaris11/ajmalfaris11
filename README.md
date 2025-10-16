@@ -54,15 +54,6 @@
 </p>
 <br/> <br/>
 
-
-### 🌍 Connect with Me  
-<p align="left">
-  <a href="https://twitter.com/ajmalfaris11"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter"/></a>
-  <a href="https://linkedin.com/in/ajmalfaris11"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/></a>
-  <a href="https://fb.com/ajmalfaris11"><img src="https://skillicons.dev/icons?i=facebook" height="40" alt="facebook"/></a>
-  <a href="https://www.leetcode.com/ajmalfaris11"><img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="leetcode"/></a>
-</p>
-
 <p align="center">
   <img src="assets/headers/githubstatusheader.png" alt="Animated Banner" width="100%"/>
 </p>
@@ -102,5 +93,14 @@
 
 <p align="center">
   <img src="assets/footer.png" alt="footer" width="100%"/>
+</p>
+
+ <!-- connect links -->
+<p align="center">
+  <a href="https://twitter.com/ajmalfaris11"><img src="assets/social/twitter.png" height="25" alt="twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ajmal_faris11/"><img src="assets/social/instagram.png" height="25" alt="instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://fb.com/ajmalfaris11"><img src="assets/social/facebook.png" height="25" alt="facebook"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.ajmalfaris.me"><img src="assets/social/web.png" height="25" alt="portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ajmalfaris11"><img src="assets/social/linkedIn.png" height="25" alt="linkedin"/></a>
 </p>
 
