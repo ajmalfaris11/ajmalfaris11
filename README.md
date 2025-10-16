@@ -71,9 +71,6 @@
 </p>
 
 
-### 💬 Quote I Live By  
-> “Code like you’re changing the world — because someday, you might.”  
-
 <a href="https://www.buymeacoffee.com/ajmalfaris11">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 </a>
@@ -83,6 +80,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajmalfaris11&bg_color=transparent&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 <br/>
+
+  <!-- My quote -->
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Program%20like%20you%E2%80%99re%20changing%20the%20world%20%E2%80%94%20because%20someday%2C%20you%20will.&author=Captain%20Aj&quoteColor=00ff41&authorColor=00ff41&backgroundColor=0d1117&symbolColor=ffffff" />
+  </a>
+</p>
 
 <p align="center">
   <img src="assets/footer.png" alt="footer" width="100%"/>
