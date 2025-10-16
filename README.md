@@ -66,17 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalfaris11&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=00ff41&title_color=00ff41" height="220"/>
 </div>
 
-
-
-### 🧠 Currently Building
-| Project | Description | Link |
-|----------|--------------|------|
-| 🛍️ **Fashion Friday** | Online fashion store offering premium sneakers & accessories | [fashionfriday.in](https://www.fashionfriday.in) |
-| 💧 **Ecodrops** | Water purification & waterproofing solutions | [Ecodrops GitHub](https://github.com/CaptainAj/ecodrops) |
-| 🧁 **Zera Events** | Dessert & juice section for event management | [Zera Events](https://github.com/CaptainAj/zera-event-planners) |
-| 👕 **Dalci** | Modern minimal clothing brand | [Dalci GitHub](https://github.com/CaptainAj/dalci) |
-
-
 ### 🏆 Achievements  
 - 🥇 Top 1% Typist — 100+ WPM  
 - 🧩 Solved 250+ problems on LeetCode with a 200-day streak  
