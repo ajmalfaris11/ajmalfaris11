@@ -91,7 +91,7 @@
   <a href="https://www.buymeacoffee.com/ajmalfaris2">
     <img src="assets/buttons/coffee.png" height="40" alt="buyMeACoffee"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/ajmalfaris11"><img src="assets/social/twitter.png" height="25" alt="twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/ajmalfarisx11"><img src="assets/social/twitter.png" height="25" alt="twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ajmal_faris11/"><img src="assets/social/instagram.png" height="25" alt="instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fb.com/ajmalfaris11"><img src="assets/social/facebook.png" height="25" alt="facebook"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.ajmalfaris.me"><img src="assets/social/web.png" height="25" alt="portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
