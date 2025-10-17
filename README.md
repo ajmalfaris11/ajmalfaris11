@@ -23,10 +23,25 @@
   <img src="assets/aboutMe.png" alt="Animated Banner" width="100%"/>
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="assets/headers/githubstatusheader.png" alt="Animated Banner" width="100%"/>
+</p>
+
+<div align="center">
+
+![GITHUB Stats](https://github-stats-alpha.vercel.app/api?username=ajmalfaris11&cc=00000000&tc=00FF00&ic=00FF00&bc=00000000#gh-dark-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalfaris11&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=00FF00&title_color=00FF00#gh-dark-mode-only)
+
+</div>
+
   <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajmalfaris11&label=Profile%20views&color=00FF41&style=flat" alt="ajmalfaris11" />
 </p>
+
+<br/> <br/>
 
   <!-- Tech Stacks -->
 <p align="center">
@@ -54,17 +69,6 @@
 </p>
 <br/> <br/>
 
-<p align="center">
-  <img src="assets/headers/githubstatusheader.png" alt="Animated Banner" width="100%"/>
-</p>
-
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ajmalfaris11&show_icons=true&theme=dark&hide_border=true&hide_title=false&bg_color=00000000&icon_color=00ff41&text_color=00ff41&title_color=00ff41&ring_color=00ff41&count_private=true" height="220"/>
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalfaris11&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=00ff41&title_color=00ff41" height="220"/>
-</div>
 
 <p align="center">
   <img src="assets/achivements.png" alt="Animated Banner" width="100%"/>
