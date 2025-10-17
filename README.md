@@ -1,6 +1,6 @@
 <!-- ✨ Advanced GitHub Profile README for Ajmal Faris ✨ -->
 <p align="center">
-  <img src="assets/githeader.gif" alt="Animated Banner" width="100%"/>
+  <img src="assets/hero.gif" alt="Animated Banner" width="100%"/>
 </p>
 
 <div align="center">
