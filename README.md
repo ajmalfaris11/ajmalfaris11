@@ -34,6 +34,13 @@
 ![GITHUB Stats](https://github-stats-alpha.vercel.app/api?username=ajmalfaris11&cc=00000000&tc=00FF00&ic=00FF00&bc=00000000#gh-dark-mode-only)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalfaris11&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=00FF00&title_color=00FF00#gh-dark-mode-only)
 
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=joyalshaji135&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=00FF41&currStreakLabel=00FF41&sideLabels=00FF41" 
+    alt="GitHub Streak Stats"
+  />
+</p>
+
 </div>
 
   <!-- Profile Views -->
