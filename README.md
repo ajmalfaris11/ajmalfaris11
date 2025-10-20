@@ -54,7 +54,7 @@
 <p align="center">
   <img src="assets/headers/languages.png" alt="Animated Banner" width="100%"/>
 </p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c" /> </p>
 <br/><br/>
 <p align="center">
   <img src="assets/headers/frontent.png" alt="Animated Banner" width="100%"/>
