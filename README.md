@@ -64,7 +64,7 @@
 <p align="center">
   <img src="assets/headers/backend.png" alt="Animated Banner" width="100%"/>
 </p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,supabase" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,supabase,firebase" /> </p>
 <br/><br/>
 <p align="center">
   <img src="assets/headers/database.png" alt="Animated Banner" width="100%"/>
