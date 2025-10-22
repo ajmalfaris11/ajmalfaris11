@@ -75,7 +75,7 @@
   <img src="assets/headers/toolsAndOther.png" alt="Animated Banner" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,git,github,gitlab,vite,prisma,vscode,eclipse,discord,figma,mui,notion" />
+  <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,git,github,gitlab,vite,prisma,vscode,eclipse,discord,figma,mui,notion,postman" />
 </p>
 <br/> <br/>
 
