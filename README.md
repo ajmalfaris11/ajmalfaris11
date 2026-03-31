@@ -48,6 +48,12 @@
   <img src="https://komarev.com/ghpvc/?username=ajmalfaris11&label=Profile%20views&color=00FF41&style=flat" alt="ajmalfaris11" />
 </p>
 
+<br>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AjmalFaris?theme=chartreuse&font=Strait&ext=heatmap"/>
+  </p>
+<br>
+
 <br/> <br/>
 
   <!-- Tech Stacks -->
