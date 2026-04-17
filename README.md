@@ -1,6 +1,6 @@
 <div align="center">
 
-<div style="max-width:1100px;width:100%;background:#000;">
+<div style="max-width:1100px;width:100%;background:#000000;">
 
 <!-- HERO -->
 <img src="assets/hero.gif" width="100%"/>
@@ -87,7 +87,7 @@
 <br><br>
 
 <!-- QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Program%20like%20you%E2%80%99re%20changing%20the%20world&author=Captain%20Aj&quoteColor=00ff41&authorColor=00ff41&backgroundColor=000000"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Program%20like%20you%E2%80%99re%20changing%20the%20world%20%E2%80%94%20because%20someday%2C%20you%20will.&author=Captain%20Aj&quoteColor=00ff41&authorColor=00ff41&backgroundColor=000000"/>
 <br><br>
 
 <!-- FOOTER -->
