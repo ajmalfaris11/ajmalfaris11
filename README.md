@@ -14,9 +14,9 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer%20%7C%20Entrepreneur;Passionate%20about%20solving%20real-world%20problems;Building%20the%20future%20through%20code%20and%20innovation;3%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=750&height=45&color=00FF00&vCenter=true&pause=1000&size=25"/>
 <br><br>
 
-<!-- TROPHIES (FIXED) -->
+<!-- TROPHIES (FIXED) 
 <img src="https://github-profile-trophy.vercel.app/?username=ajmalfaris11&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6"/>
-<br><br>
+<br><br> -->
 
 <!-- ABOUT -->
 <img src="assets/aboutMe.png" width="100%"/>
@@ -28,18 +28,15 @@
 
 <!-- STATS -->
 <img src="https://github-stats-alpha.vercel.app/api?username=ajmalfaris11&cc=00000000&tc=00FF00&ic=00FF00&bc=00000000" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalfaris11&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=00FF00&title_color=00FF00" width="49%"/>
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajmalfaris11&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=00FF41"/>
 <br><br>
 
-<!-- VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=ajmalfaris11&color=00FF41"/>
-<br><br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalfaris11&langs_count=20&layout=compact&include_all_commits=true&line_height=27&theme=dark&hide_border=true&bg_color=00000000&text_color=00FF00&title_color=00FF00" width="50%">
+</p>
 
 <!-- LEETCODE -->
-<img src="https://leetcard.jacoblin.cool/AjmalFaris?theme=chartreuse&font=Strait&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/AjmalFaris?theme=chartreuse&font=Strait&ext=heatmap" width="50%"/>
 <br><br>
 
 <!-- LANGUAGES -->
@@ -95,6 +92,10 @@
   <img src="assets/buttons/coffee.png" height="40"/>
 </a>
 &nbsp;&nbsp;
+
+<!-- VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=ajmalfaris11&color=00FF41"/>
+
 <a href="https://ajmalfaris.me">
   <img src="assets/buttons/web.png" height="40"/>
 </a>
